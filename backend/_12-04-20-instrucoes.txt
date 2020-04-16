@@ -1,0 +1,62 @@
+const express = require('express');
+const app = express();
+app.use(express.json());
+/**
+ * Rota / Recurso
+*/
+/**
+ * Método HTTP:
+ * 
+ * GET: Buscar/Listar informação do back-end.
+ * POST: Criar uma informação no back-end.
+ * PUT: Alterar uma informação no back-end.
+ * DELETE: Deletar uma informação no back-end.
+*/
+/**
+ * Tipos de parâmetros:
+ * 
+ * Query Params: Parâmetros nomeados enviados na rota após "?" (Serve para ser filtros, paginação, exemplo:http://localhost:3333/users?name=Jg http://localhost:3333/users?page=2&nome=Jg&idade=25)
+ * resquest.query
+ * Route Params: Parâmetros utilizados para identificar recursos (exemplo:http://localhost:3333/users/1)
+ * resquest.params
+ * Request Body: Corpo da requisição, utilizado para criar ou alterar recursos
+*/
+/**
+ * SQL: MySQL, SQLite, PostreSQL, Oracle, Microsoft SQL Server.
+ * NoSQL: MongoDB, CouchDB, etc.  
+*/
+/**
+ * Driver: SELECT + FROM users 
+ * Query Builder: table('user').select('*').where()    | http://knexjs.org/ instalar o knex: npm install knex, npm install sqlite3 ( no caso o lite)
+*/
+/**
+ * Rota / Recurso
+*/
+app.post('/users', (request, response) => {
+    const body = request.body;
+    console.log(body);
+    return response.json({
+        evento: 'Semana OmniStack 11.0',
+        aluno: 'joao'
+    })
+});
+app.listen(3333);
+
+
+
+
+O que é entidade?
+- É tudo aquilo que vai ser salvo no banco de dados
+
+
+
+
+
+
+
+
+
+
+
+
+
