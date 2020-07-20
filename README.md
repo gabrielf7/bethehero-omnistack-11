@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/gabrielf7/PrimeiroBootstrap/blob/master/Simples-Bootstrap-Designn.png)
+![Logo of the project]()
 
 ## The Hero Case - Semana Omnistack 11.0
 Projeto desenvolvido com intuito de atender casos relacionados ao abandono dos cachorros de rua .
