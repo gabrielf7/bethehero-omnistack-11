@@ -1,0 +1,160 @@
+
+This project is not working properly in the stage aimed at the mobile audience
+This project is not working properly in the stage aimed at the mobile audience
+This project is not working properly in the stage aimed at the mobile audience
+This project is not working properly in the stage aimed at the mobile audience
+This project is not working properly in the stage aimed at the mobile audience
+This project is not working properly in the stage aimed at the mobile audience
+This project is not working properly in the stage aimed at the mobile audience
+
+FOLDER MOBILE:
+Inspection day 21/07/2020 Hours: 1h Minute: 7min
+
+command:
+- npm audit 
+return:
+                                                                                
+                       === npm audit security report ===                        
+                                                                                
+                                                                                
+                                 Manual Review                                  
+             Some vulnerabilities require your attention to resolve             
+                                                                                
+          Visit https://go.npm.me/audit-guide for additional guidance           
+                                                                                
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         mem                                                           
+                                                                                
+  Patched in      >=4.0.0                                                       
+                                                                                
+  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                                                                                
+  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                  > @react-native-community/cli > metro >                       
+                  metro-inspector-proxy > yargs > os-locale > mem               
+                                                                                
+  More info       https://npmjs.com/advisories/1084                             
+                                                                                
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         mem                                                           
+                                                                                
+  Patched in      >=4.0.0                                                       
+                                                                                
+  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                                                                                
+  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                  > @react-native-community/cli > metro-config > metro >        
+                  metro-inspector-proxy > yargs > os-locale > mem               
+                                                                                
+  More info       https://npmjs.com/advisories/1084                             
+                                                                                
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         mem                                                           
+                                                                                
+  Patched in      >=4.0.0                                                       
+                                                                                
+  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                                                                                
+  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                  > @react-native-community/cli > metro > yargs > os-locale >   
+                  mem                                                           
+                                                                                
+  More info       https://npmjs.com/advisories/1084                             
+                                                                                
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         mem                                                           
+                                                                                
+  Patched in      >=4.0.0                                                       
+                                                                                
+  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                                                                                
+  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                  > @react-native-community/cli > metro-config > metro > yargs  
+                  > os-locale > mem                                             
+                                                                                
+  More info       https://npmjs.com/advisories/1084                             
+                                                                                
+                                                                                
+  Low             Prototype Pollution                                           
+                                                                                
+  Package         yargs-parser                                                  
+                                                                                
+  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
+                                                                                
+  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                                                                                
+  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                  > @react-native-community/cli > metro >                       
+                  metro-inspector-proxy > yargs > yargs-parser                  
+                                                                                
+  More info       https://npmjs.com/advisories/1500                             
+                                                                                
+                                                                                
+  Low             Prototype Pollution                                           
+                                                                                
+  Package         yargs-parser                                                  
+                                                                                
+  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
+                                                                                
+  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                                                                                
+  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                  > @react-native-community/cli > metro-config > metro >        
+                  metro-inspector-proxy > yargs > yargs-parser                  
+                                                                                
+  More info       https://npmjs.com/advisories/1500                             
+                                                                                
+                                                                                
+  Low             Prototype Pollution                                           
+                                                                                
+  Package         yargs-parser                                                  
+                                                                                
+  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
+                                                                                
+  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                                                                                
+  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                  > @react-native-community/cli > metro > yargs > yargs-parser  
+                                                                                
+  More info       https://npmjs.com/advisories/1500                             
+                                                                                
+                                                                                
+  Low             Prototype Pollution                                           
+                                                                                
+  Package         yargs-parser                                                  
+                                                                                
+  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
+                                                                                
+  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                                                                                
+  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                  > @react-native-community/cli > metro-config > metro > yargs  
+                  > yargs-parser                                                
+                                                                                
+  More info       https://npmjs.com/advisories/1500                             
+                                                                                
+                                                                                
+  Low             Prototype Pollution                                           
+                                                                                
+  Package         yargs-parser                                                  
+                                                                                
+  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
+                                                                                
+  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                                                                                
+  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+                  > @react-native-community/cli-platform-android > logkitty >   
+                  yargs > yargs-parser                                          
+                                                                                
+  More info       https://npmjs.com/advisories/1500                             
+                                                                                
+found 9 low severity vulnerabilities in 886 scanned packages
+  9 vulnerabilities require manual review. See the full report for details.
