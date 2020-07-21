@@ -1,23 +1,24 @@
-![Logo of the project]()
+<p align="center">
+   <img alt="be-the-hero" src="https://github.com/gabrielf7/the-hero-case-semanaomnistack11/blob/master/frontend/src/assets/logo.svg" >
+</p>
 
-## The Hero Case - Semana Omnistack 11.0
-Projeto desenvolvido com intuito de atender casos relacionados ao abandono dos cachorros de rua .
+<h4 align="center">
+  Be The Hero - Semana Omnistack 11.0
+</h4>
 
 ## Technology 
 
 Here are the technologies used in this project.
 
-* Nodejs 12.16.0
-* Bootstrap version  4.4.1
-* Fortawesome 5.13.0
-* Popper.js 1.16.1
-
+<p align="center">
+  <a href="https://nodejs.org/en/download/">NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://pt-br.reactjs.org/">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://reactnative.dev/">React Native</a>
+</p>
 
 ## Services Used
 
 * Github
-
-
 
 ## Getting started
 
@@ -35,6 +36,15 @@ Here are the technologies used in this project.
 ## How to use
  
 Here will be the images and descriptions. Principal content.
+ 
+ ### Logon, insert the ID of the ONG that was generated in the register:
+ ![](https://github.com/gabrielf7/the-hero-case-semanaomnistack11/blob/master/redme-files/be-the-Hero-logon.png)
+ 
+ ### Main application screen, you can view the cases:
+ ![](https://github.com/gabrielf7/the-hero-case-semanaomnistack11/blob/master/redme-files/be-the-Hero-main-page.png)
+ 
+ ### New cases registration screen:
+ ![](https://github.com/gabrielf7/the-hero-case-semanaomnistack11/blob/master/redme-files/be-the-Hero-register-new-case.png)
  
  
 ## Features
