@@ -23,14 +23,14 @@ Here are the technologies used in this project.
 ## Getting started
 
 * To install nodejs:
->    [nodejs-update](https://nodejs.org/en/download/)
+>    [nodejs-lts](https://nodejs.org/en/download/)
 * To clone repository with git:
->    $ git clone https://github.com/gabrielf7/create-simple-bootstrap.git
-* To access simple bootstrap:
->    $ cd create-simples-bootstrap
-* To create node_modules:
+>    $ git clone https://github.com/gabrielf7/the-hero-case-semanaomnistack11
+* To access Be The Hero - Semana Omnistack 11.0:
+>    $ cd the-hero-case-semanaomnistack11
+* To create node_modules the-hero-case-semanaomnistack11/frontend or Mobile:
 >    $ npm install
-* To start simple bootstrap:
+* To start the-hero-case-semanaomnistack11/frontend or Mobile:
 >    $ npm start
 
 ## How to use
@@ -49,26 +49,31 @@ Here will be the images and descriptions. Principal content.
  
 ## Features
  
-  - Here will be the features.
+  - Log in to enter the platform.
+  - Register ONG on the platform.
+  - Register cases involving animals on the street.
+  - Organize registration on cases animals living on the street
+  - Organizes cases about sick animals found on the street.
+  - Provides means of direct donation by email or contacts from ONG.
  
  
 ## Links
  
   - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
+  - Repository: https://github.com/gabrielf7/the-hero-case-semanaomnistack11
     - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
+      [Issue](https://github.com/gabrielf7/the-hero-case-semanaomnistack11/issues) directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
  
 
 ## Versioning
 
-1.0.0.0
+0.1.0
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/gabrielf7/PrimeiroBootstrap/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/gabrielf7/the-hero-case-semanaomnistack11/blob/master/LICENSE) file for details.
 
 Create by [@gabrielf7](https://github.com/gabrielf7)
 
