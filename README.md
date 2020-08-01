@@ -20,6 +20,10 @@ Here are the technologies used in this project.
 
 * Github
 
+## Attention
+
+* [React-Native with flaws 8/1/2020](https://github.com/gabrielf7/the-hero-case-semanaomnistack11/blob/master/Attention.txt)
+
 ## Getting started
 
 * To install nodejs:
