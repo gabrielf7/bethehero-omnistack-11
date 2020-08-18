@@ -11,7 +11,7 @@
 Here are the technologies used in this project.
 
 <p align="center">
-  <a href="https://nodejs.org/en/download/">NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/en/download/">NodeJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://pt-br.reactjs.org/">ReactJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://reactnative.dev/">React Native</a>
 </p>
