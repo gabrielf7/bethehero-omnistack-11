@@ -10,11 +10,11 @@ export default function Routes() {
     return (
         <BrowserRouter>
           <Switch>
-              <Route path="/" exact component={Logon} />
-              <Route path="/register" component={Register} />
+              <Route path={process.env.PUBLIC_URL + '/'} exact component={Logon} />
+              <Route path={process.env.PUBLIC_URL + '/register'} component={Register} />
 
-              <Route path="/profile" component={Profile} />
-              <Route path="/incidents/new" component={NewIncident} />
+              <Route path={process.env.PUBLIC_URL + '/profile'} component={Profile} />
+              <Route path={process.env.PUBLIC_URL + '/incidents/new'} component={NewIncident} />
           </Switch>
         </BrowserRouter>
     )
