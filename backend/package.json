@@ -11,13 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "celebrate": "^12.1.1",
+    "celebrate": "^12.2.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "knex": "^0.20.13",
+    "knex": "^0.20.15",
     "sqlite3": "^4.2.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.6"
   }
 }
