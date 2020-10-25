@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bethehero-omstack-11/static/css/main.1b33f9c3.chunk.css",
-    "main.js": "/bethehero-omstack-11/static/js/main.198f1288.chunk.js",
-    "main.js.map": "/bethehero-omstack-11/static/js/main.198f1288.chunk.js.map",
+    "main.js": "/bethehero-omstack-11/static/js/main.9ce5e902.chunk.js",
+    "main.js.map": "/bethehero-omstack-11/static/js/main.9ce5e902.chunk.js.map",
     "runtime-main.js": "/bethehero-omstack-11/static/js/runtime-main.789ec95e.js",
     "runtime-main.js.map": "/bethehero-omstack-11/static/js/runtime-main.789ec95e.js.map",
     "static/js/2.f0fe3b0b.chunk.js": "/bethehero-omstack-11/static/js/2.f0fe3b0b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.789ec95e.js",
     "static/js/2.f0fe3b0b.chunk.js",
     "static/css/main.1b33f9c3.chunk.css",
-    "static/js/main.198f1288.chunk.js"
+    "static/js/main.9ce5e902.chunk.js"
   ]
 }
