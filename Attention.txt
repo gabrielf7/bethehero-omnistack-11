@@ -8,7 +8,7 @@ This project is not working properly in the stage aimed at the mobile audience
 This project is not working properly in the stage aimed at the mobile audience
 
 FOLDER MOBILE:
-Inspection day 21/07/2020 Hours: 1h Minute: 7min
+Inspection day 24/10/2020 Hours:23h Minute:53min
 
 command:
 - npm audit 
@@ -25,136 +25,165 @@ return:
                                                                                 
   Low             Denial of Service                                             
                                                                                 
-  Package         mem                                                           
+  Package         node-fetch                                                    
                                                                                 
-  Patched in      >=4.0.0                                                       
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
                                                                                 
-  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+  Dependency of   @react-native-community/cli                                   
                                                                                 
-  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                  > @react-native-community/cli > metro >                       
-                  metro-inspector-proxy > yargs > os-locale > mem               
+  Path            @react-native-community/cli > metro > fbjs >                  
+                  isomorphic-fetch > node-fetch                                 
                                                                                 
-  More info       https://npmjs.com/advisories/1084                             
-                                                                                
-                                                                                
-  Low             Denial of Service                                             
-                                                                                
-  Package         mem                                                           
-                                                                                
-  Patched in      >=4.0.0                                                       
-                                                                                
-  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                                                                                
-  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                  > @react-native-community/cli > metro-config > metro >        
-                  metro-inspector-proxy > yargs > os-locale > mem               
-                                                                                
-  More info       https://npmjs.com/advisories/1084                             
+  More info       https://npmjs.com/advisories/1556                             
                                                                                 
                                                                                 
   Low             Denial of Service                                             
                                                                                 
-  Package         mem                                                           
+  Package         node-fetch                                                    
                                                                                 
-  Patched in      >=4.0.0                                                       
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
                                                                                 
-  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+  Dependency of   react-native                                                  
                                                                                 
-  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                  > @react-native-community/cli > metro > yargs > os-locale >   
-                  mem                                                           
+  Path            react-native > @react-native-community/cli > metro > fbjs >   
+                  isomorphic-fetch > node-fetch                                 
                                                                                 
-  More info       https://npmjs.com/advisories/1084                             
+  More info       https://npmjs.com/advisories/1556                             
                                                                                 
                                                                                 
   Low             Denial of Service                                             
                                                                                 
-  Package         mem                                                           
+  Package         node-fetch                                                    
                                                                                 
-  Patched in      >=4.0.0                                                       
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
                                                                                 
-  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+  Dependency of   @react-native-community/cli                                   
                                                                                 
-  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                  > @react-native-community/cli > metro-config > metro > yargs  
-                  > os-locale > mem                                             
+  Path            @react-native-community/cli > metro-config > metro > fbjs >   
+                  isomorphic-fetch > node-fetch                                 
                                                                                 
-  More info       https://npmjs.com/advisories/1084                             
-                                                                                
-                                                                                
-  Low             Prototype Pollution                                           
-                                                                                
-  Package         yargs-parser                                                  
-                                                                                
-  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
-                                                                                
-  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                                                                                
-  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                  > @react-native-community/cli > metro >                       
-                  metro-inspector-proxy > yargs > yargs-parser                  
-                                                                                
-  More info       https://npmjs.com/advisories/1500                             
+  More info       https://npmjs.com/advisories/1556                             
                                                                                 
                                                                                 
-  Low             Prototype Pollution                                           
+  Low             Denial of Service                                             
                                                                                 
-  Package         yargs-parser                                                  
+  Package         node-fetch                                                    
                                                                                 
-  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
                                                                                 
-  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+  Dependency of   react-native                                                  
                                                                                 
-  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                  > @react-native-community/cli > metro-config > metro >        
-                  metro-inspector-proxy > yargs > yargs-parser                  
+  Path            react-native > @react-native-community/cli > metro-config >   
+                  metro > fbjs > isomorphic-fetch > node-fetch                  
                                                                                 
-  More info       https://npmjs.com/advisories/1500                             
-                                                                                
-                                                                                
-  Low             Prototype Pollution                                           
-                                                                                
-  Package         yargs-parser                                                  
-                                                                                
-  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
-                                                                                
-  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                                                                                
-  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                  > @react-native-community/cli > metro > yargs > yargs-parser  
-                                                                                
-  More info       https://npmjs.com/advisories/1500                             
+  More info       https://npmjs.com/advisories/1556                             
                                                                                 
                                                                                 
-  Low             Prototype Pollution                                           
+  Low             Denial of Service                                             
                                                                                 
-  Package         yargs-parser                                                  
+  Package         node-fetch                                                    
                                                                                 
-  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
                                                                                 
-  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+  Dependency of   expo                                                          
                                                                                 
-  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                  > @react-native-community/cli > metro-config > metro > yargs  
-                  > yargs-parser                                                
+  Path            expo > expo-constants > fbjs > isomorphic-fetch > node-fetch  
                                                                                 
-  More info       https://npmjs.com/advisories/1500                             
+  More info       https://npmjs.com/advisories/1556                             
                                                                                 
                                                                                 
-  Low             Prototype Pollution                                           
+  Low             Denial of Service                                             
                                                                                 
-  Package         yargs-parser                                                  
+  Package         node-fetch                                                    
                                                                                 
-  Patched in      >=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2              
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
                                                                                 
-  Dependency of   f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
+  Dependency of   expo                                                          
                                                                                 
-  Path            f8237133425c1eba9b0b8a4748544fdcf7169112f6076cb8f9016fe0c4d…  
-                  > @react-native-community/cli-platform-android > logkitty >   
-                  yargs > yargs-parser                                          
+  Path            expo > expo-error-recovery > fbjs > isomorphic-fetch >        
+                  node-fetch                                                    
                                                                                 
-  More info       https://npmjs.com/advisories/1500                             
+  More info       https://npmjs.com/advisories/1556                             
                                                                                 
-found 9 low severity vulnerabilities in 886 scanned packages
-  9 vulnerabilities require manual review. See the full report for details.
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         node-fetch                                                    
+                                                                                
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
+                                                                                
+  Dependency of   expo                                                          
+                                                                                
+  Path            expo > expo-font > fbjs > isomorphic-fetch > node-fetch       
+                                                                                
+  More info       https://npmjs.com/advisories/1556                             
+                                                                                
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         node-fetch                                                    
+                                                                                
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
+                                                                                
+  Dependency of   expo                                                          
+                                                                                
+  Path            expo > expo-linking > expo-constants > fbjs >                 
+                  isomorphic-fetch > node-fetch                                 
+                                                                                
+  More info       https://npmjs.com/advisories/1556                             
+                                                                                
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         node-fetch                                                    
+                                                                                
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
+                                                                                
+  Dependency of   react-native                                                  
+                                                                                
+  Path            react-native > fbjs > isomorphic-fetch > node-fetch           
+                                                                                
+  More info       https://npmjs.com/advisories/1556                             
+                                                                                
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         node-fetch                                                    
+                                                                                
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
+                                                                                
+  Dependency of   react-native-reanimated                                       
+                                                                                
+  Path            react-native-reanimated > fbjs > isomorphic-fetch >           
+                  node-fetch                                                    
+                                                                                
+  More info       https://npmjs.com/advisories/1556                             
+                                                                                
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         node-fetch                                                    
+                                                                                
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
+                                                                                
+  Dependency of   react-native-web                                              
+                                                                                
+  Path            react-native-web > fbjs > isomorphic-fetch > node-fetch       
+                                                                                
+  More info       https://npmjs.com/advisories/1556                             
+                                                                                
+                                                                                
+  Low             Denial of Service                                             
+                                                                                
+  Package         node-fetch                                                    
+                                                                                
+  Patched in      >=2.6.1 <3.0.0-beta.1|| >= 3.0.0-beta.9                       
+                                                                                
+  Dependency of   expo                                                          
+                                                                                
+  Path            expo > fbemitter > fbjs > isomorphic-fetch > node-fetch       
+                                                                                
+  More info       https://npmjs.com/advisories/1556                             
+                                                                                
+found 12 low severity vulnerabilities in 974 scanned packages
+  12 vulnerabilities require manual review. See the full report for details.
