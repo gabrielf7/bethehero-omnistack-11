@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabrielf7.github.io/bethehero-omstack-11",
+  "homepage": "https://gabrielf7.github.io/bethehero-omnistack-11",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
