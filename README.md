@@ -31,10 +31,10 @@ Here are the technologies used in this project.
 * To clone repository with git:
 >    $ git clone https://github.com/gabrielf7/bethehero-omnistack-11
 * To access Be The Hero - Semana Omnistack 11.0:
->    $ cd the-hero-case-semanaomnistack11
-* To create node_modules the-hero-case-semanaomnistack11/frontend or Mobile:
+>    $ cd bethehero-omnistack-11
+* To create node_modules bethehero-omnistack-11/frontend or Mobile:
 >    $ npm install
-* To start the-hero-case-semanaomnistack11/frontend or Mobile:
+* To start bethehero-omnistack-11/frontend or Mobile:
 >    $ npm start
 
 ## How to use
