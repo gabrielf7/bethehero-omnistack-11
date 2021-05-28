@@ -39,7 +39,7 @@ Here are the technologies used in this project.
 
 ## How to use
  
-Here will be the images and descriptions. Principal content.
+Here will be the images and descriptions. Main content.
  
  ### Logon, insert the ID of the ONG that was generated in the register:
  ![Login](https://github.com/gabrielf7/bethehero-omnistack-11/blob/master/redme-files/be-the-Hero-logon.png)
